@@ -10,6 +10,12 @@ public class CommandeApiV1Application {
 		SpringApplication.run(CommandeApiV1Application.class, args);
 		System.out.println("Hello Fst");
                 System.err.println("Fstg Sir");
+                System.out.println("Hello Fst");
+                System.err.println("Fstg Sir");
+                System.out.println("Hello Fst");
+                System.err.println("Fstg Sir");
+                System.out.println("Hello Fst");
+                System.err.println("Fstg Sir");
 	}
 
 }
