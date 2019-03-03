@@ -9,9 +9,6 @@ public class CommandeApiV1Application {
 	public static void main(String[] args) {
             SpringApplication.run(CommandeApiV1Application.class, args);
             int n1=7;
-            String nom="";
-            System.out.println("Hello Fst");
-            System.out.println("license SIR");
 	}
 
 }
