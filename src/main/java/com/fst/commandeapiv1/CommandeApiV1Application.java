@@ -11,6 +11,7 @@ public class CommandeApiV1Application {
             int n1=4;
             System.out.println("hello");
             String nom="";  
+            int n2=0;
 	}
 
 }
