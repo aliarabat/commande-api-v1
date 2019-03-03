@@ -12,6 +12,7 @@ public class CommandeApiV1Application {
             String nom="";
             System.out.println("Hello FST");
             System.out.println("License sir");
+            System.out.println("Bienvenue");
 	}
 
 }
