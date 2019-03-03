@@ -13,6 +13,7 @@ public class CommandeApiV1Application {
             System.out.println("Hello FST");
             System.out.println("License sir");
             System.out.println("Bienvenue");
+            System.out.println("Bonjour");
 	}
 
 }
