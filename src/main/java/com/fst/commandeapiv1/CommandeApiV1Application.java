@@ -8,12 +8,6 @@ public class CommandeApiV1Application {
 
 	public static void main(String[] args) {
             SpringApplication.run(CommandeApiV1Application.class, args);
-            int n1=2;
-            String nom="";
-            System.out.println("Hello FST");
-            System.out.println("License sir");
-            System.out.println("Bienvenue");
-            System.out.println("Bonjour");
 	}
 
 }
