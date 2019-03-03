@@ -10,6 +10,7 @@ public class CommandeApiV1Application {
             SpringApplication.run(CommandeApiV1Application.class, args);
             int n1=4;
             String nom="";  
+            System.out.println("malek");
 	}
 
 }
